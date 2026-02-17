@@ -33,7 +33,7 @@ A modern multi-worker tool for generating animated WebP landscape previews for J
 ```bash
 pip install customtkinter
 
-python jellyfin_landscape_gui.pyw
+python jellyfin_mp4_to_webp_gui.pyw
 ```
 
 ## 🎮 Usage
